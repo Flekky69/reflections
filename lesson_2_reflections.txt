@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+new hidden directory and metadata files are created.
+This is needed to start tracking file history
+
+How is the staging area different from the working directory and the repository?
+staging area is a draft area where you put temporarily your files before creating a definitive commit. The repository is the place dedicated to commits
+What value do you think it offers?
+As a draft it allows you to stage and unstage files till you are sure which are the files you want to create a repository commit with 
