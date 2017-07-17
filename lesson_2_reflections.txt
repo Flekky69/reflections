@@ -6,3 +6,9 @@ How is the staging area different from the working directory and the repository?
 staging area is a draft area where you put temporarily your files before creating a definitive commit. The repository is the place dedicated to commits
 What value do you think it offers?
 As a draft it allows you to stage and unstage files till you are sure which are the files you want to create a repository commit with 
+
+How can you use the staging area to make sure you have one commit per logical change?
+you can put all the modified files by the logical change into the staging area and then proceed with the commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to experiment a new version or create a variant of existing code, that you would exist in parallel with the master branch version
