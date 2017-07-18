@@ -12,3 +12,14 @@ you can put all the modified files by the logical change into the staging area a
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when you want to experiment a new version or create a variant of existing code, that you would exist in parallel with the master branch version
+
+How do the diagrams help you visualize the branch structure?
+they provide a graphical way to see checkouts and it's easy seeing if and why a certain commit is not reachable
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Result is creating a new commit containing all the changes introduced in each branch
+they are represented through a new single node for the commit as it depicts visually eactly what it haeppens
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+boh... vedo solo pro
+
