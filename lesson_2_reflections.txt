@@ -21,5 +21,5 @@ Result is creating a new commit containing all the changes introduced in each br
 they are represented through a new single node for the commit as it depicts visually eactly what it haeppens
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-not sure
+git automatic process is fast but prone to conflicts, manual merge is useful to avoid conflicts
 
