@@ -9,3 +9,6 @@ forks is a remote clone of a remote repository (remote = in GitHub)
 clones is a clone (local) of a local or remote repository
 branch is a commit history (so a set of related commits) on a repository
 Clone needs to be used to clone locally a repository, fork to clone remotly a remote repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Because you can understand what haeppened in case of conflicting commits between your local branch and remote branch knowing what haeppened since last aligned commit
