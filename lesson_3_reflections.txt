@@ -12,3 +12,6 @@ Clone needs to be used to clone locally a repository, fork to clone remotly a re
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Because you can understand what haeppened in case of conflicting commits between your local branch and remote branch knowing what haeppened since last aligned commit
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+it would be more complex and harder as there wouldn't be a version control system 
